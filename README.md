@@ -1,6 +1,8 @@
 # secretmodinjector
 Module that can be installed alongside fabric mods, to allow hiding secret features in normal mods
 
+THIS IS NOT A STANDALONE FABRIC MOD!!!
+
 # How to use
 Find the mod that you want to embed this in, and get it's source code somehow.
 Clone this and drop the src folder in.
